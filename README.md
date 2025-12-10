@@ -8,6 +8,8 @@
 
 ### 📸 Proje Görünümü
 <img width="1850" height="927" alt="image" src="https://github.com/user-attachments/assets/2fdff647-b3b7-47fb-a62c-d7609d854265" />
+<img width="1842" height="817" alt="image" src="https://github.com/user-attachments/assets/d7c944e3-fbca-48ad-93c7-6f3cf0f59d4b" />
+
 
 ### 🎯 Proje Hakkında
 Bu çalışma, popüler bir streaming platformu olan Netflix'in arayüzünü **saf (vanilla) HTML ve CSS** kullanarak birebir oluşturma denemesidir. Projenin amacı, modern web tasarımlarındaki hizalama, renklendirme ve yapısal öğeleri kodlayarak pratik yapmaktır.
